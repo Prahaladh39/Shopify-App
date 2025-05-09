@@ -1,7 +1,7 @@
 ## Setup
 
 1.Clone the repository:
-git clone <your-repo-url>
+git clone https://github.com/Prahaladh39/Shopify-App
 cd <your-project-folder>
 
 2.Install dependencies:
