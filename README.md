@@ -2,7 +2,7 @@
 
 1.Clone the repository:
 git clone https://github.com/Prahaladh39/Shopify-App
-cd <your-project-folder>
+cd Shopify-App
 
 2.Install dependencies:
 npm install
