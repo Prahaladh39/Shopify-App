@@ -8,8 +8,10 @@ cd Shopify-App
 npm install
 
 3.Start the development server:
-npm run dev
+shopify app dev
 
+## Strcuture
+You can find the necassary routes inside app/routes
 ## Persistence
 
 The wishlist data is stored in the browser's localStorage. When a user adds or removes items from the wishlist, those changes are immediately saved to localStorage, ensuring that data persists even after the page is refreshed or the browser is closed.
